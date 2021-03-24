@@ -49,7 +49,7 @@ pytz==2019.3
 qt5reactor==0.6
 queuelib==1.5.0
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 Scrapy==1.8.0
 scrapy-splash==0.7.2
 selenium==3.141.0
