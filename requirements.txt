@@ -58,7 +58,7 @@ six==1.14.0
 splash==3.4.1
 Twisted==19.10.0
 uritemplate==3.0.1
-urllib3==1.25.7
+urllib3==1.26.5
 w3lib==1.21.0
 websocket-client==0.57.0
 xvfbwrapper==0.2.9
